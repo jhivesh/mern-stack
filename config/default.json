@@ -1,0 +1,5 @@
+{
+    "mongoURI":
+    "mongodb+srv://jhivesh:dbjhivesh@cluster0-jpxkl.mongodb.net/test?retryWrites=true&w=majority"
+}
+
